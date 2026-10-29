@@ -22,7 +22,7 @@ Project Details
 
 💻 GitHub Repository: https://github.com/Atulprakash9/IPL-Score-Predictor
 
-🌐 Live Website: https://atulprakash-ipl-score-predictor-jmugwtkeebvkip
+🌐 Live Website: https://atulprakash-ipl-score-predictor-jmugwtkeebvkipc2ptydt9.streamlit.app/
 
 
 
